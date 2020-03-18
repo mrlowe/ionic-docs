@@ -47,8 +47,14 @@ Capacitor uses Android Studio to build and run apps to simulators and devices.
     ```shell
     $ ionic capacitor copy android
     ```
+    
+2. **Open the project in Android Studio.**
 
-2. **In Android Studio, click the Run button and then select the target simulator or device.**
+    ```shell
+    $ ionic capacitor open android
+    ```
+
+3. **In Android Studio, click the Run button and then select the target simulator or device.**
 
 ![Android Studio Run Button Area](/docs/assets/img/running/android-studio-run-button-area.png)
 
